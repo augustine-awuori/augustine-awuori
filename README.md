@@ -1,7 +1,6 @@
-- 👋 Hi, I’m @augustine-awuori
-- 👀 I’m interested in Developing softwares to solve new problems. Yeah, new problem need new solution.
-- 🌱 I’m currently learning React Native. I already know Data Structures & Algorithm, Design Patterns, JavaScript, React, NodeJs, Python, Java etc.
-- 💞️ I’m looking to collaborate on any software. Especially frontend softwares.
+- 👀 I’m interested in Developing softwares that make a difference.
+- 🌱 I develop websites and mobile apps
+- 💞️ I’m looking to collaborate on any software.
 - 📫 How to reach me. You can reach me out through my email. codewithaugustine@gmail.com
 
 <!---
