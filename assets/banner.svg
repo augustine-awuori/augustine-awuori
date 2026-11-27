@@ -1,0 +1,79 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="320" viewBox="0 0 1280 320" role="img" aria-label="Augustine Awuori, full-stack developer">
+<defs>
+  <radialGradient id="deep" cx="0.72" cy="0.45" r="0.75">
+    <stop offset="0" stop-color="#123029"/><stop offset="0.5" stop-color="#0b1517"/><stop offset="1" stop-color="#06080a"/>
+  </radialGradient>
+  <linearGradient id="rim" x1="0" y1="0" x2="0" y2="1">
+    <stop offset="0" stop-color="#ffffff" stop-opacity="0.16"/><stop offset="0.35" stop-color="#ffffff" stop-opacity="0.03"/><stop offset="1" stop-color="#ffffff" stop-opacity="0"/>
+  </linearGradient>
+  <linearGradient id="teal" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#7af3d4"/><stop offset="1" stop-color="#1fae8c"/></linearGradient>
+  <linearGradient id="amber" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#ffd780"/><stop offset="1" stop-color="#ee9f31"/></linearGradient>
+  <linearGradient id="beam" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#ffffff"/><stop offset="1" stop-color="#e3e8ee"/></linearGradient>
+  <filter id="bloom" x="-20%" y="-40%" width="140%" height="180%"><feGaussianBlur stdDeviation="12"/></filter>
+  <filter id="lift" x="-50%" y="-20%" width="200%" height="140%"><feDropShadow dx="0" dy="6" stdDeviation="7" flood-color="#000" flood-opacity="0.55"/></filter>
+</defs>
+<rect x="2" y="2" width="1276" height="316" rx="28" fill="url(#deep)"/>
+<rect x="3.5" y="3.5" width="1273" height="313" rx="26.5" fill="none" stroke="url(#rim)" stroke-width="3"/>
+<g filter="url(#bloom)" opacity="0.55">
+  <rect x="760" y="139.5" width="10" height="41" rx="5" fill="#3fd6b0"/>
+  <rect x="777" y="119.0" width="10" height="82" rx="5" fill="#3fd6b0"/>
+  <rect x="794" y="129.5" width="10" height="61" rx="5" fill="#3fd6b0"/>
+  <rect x="811" y="122.0" width="10" height="76" rx="5" fill="#3fd6b0"/>
+  <rect x="828" y="113.5" width="10" height="93" rx="5" fill="#3fd6b0"/>
+  <rect x="845" y="95.5" width="10" height="129" rx="5" fill="#3fd6b0"/>
+  <rect x="862" y="96.0" width="10" height="128" rx="5" fill="#3fd6b0"/>
+  <rect x="879" y="104.0" width="10" height="112" rx="5" fill="#3fd6b0"/>
+  <rect x="896" y="109.5" width="10" height="101" rx="5" fill="#3fd6b0"/>
+  <rect x="913" y="100.5" width="10" height="119" rx="5" fill="#3fd6b0"/>
+  <rect x="930" y="71.0" width="10" height="178" rx="5" fill="#3fd6b0"/>
+  <rect x="947" y="102.5" width="10" height="115" rx="5" fill="#3fd6b0"/>
+  <rect x="964" y="82.0" width="10" height="156" rx="5" fill="#f5b84a"/>
+  <rect x="981" y="107.5" width="10" height="105" rx="5" fill="#f5b84a"/>
+  <rect x="998" y="87.0" width="10" height="146" rx="5" fill="#f5b84a"/>
+  <rect x="1015" y="95.5" width="10" height="129" rx="5" fill="#f5b84a"/>
+  <rect x="1032" y="76.0" width="10" height="168" rx="5" fill="#f5b84a"/>
+  <rect x="1049" y="96.5" width="10" height="127" rx="5" fill="#f5b84a"/>
+  <rect x="1066" y="110.0" width="10" height="100" rx="5" fill="#f5b84a"/>
+  <rect x="1083" y="107.0" width="10" height="106" rx="5" fill="#f5b84a"/>
+  <rect x="1100" y="106.5" width="10" height="107" rx="5" fill="#3fd6b0"/>
+  <rect x="1117" y="97.5" width="10" height="125" rx="5" fill="#3fd6b0"/>
+  <rect x="1134" y="121.5" width="10" height="77" rx="5" fill="#3fd6b0"/>
+  <rect x="1151" y="124.0" width="10" height="72" rx="5" fill="#3fd6b0"/>
+  <rect x="1168" y="135.5" width="10" height="49" rx="5" fill="#3fd6b0"/>
+  <rect x="1185" y="127.0" width="10" height="66" rx="5" fill="#3fd6b0"/>
+</g>
+<g>
+  <rect x="760" y="139.5" width="10" height="41" rx="5" fill="url(#teal)" opacity="0.72"/>
+  <rect x="777" y="119.0" width="10" height="82" rx="5" fill="url(#teal)" opacity="0.74"/>
+  <rect x="794" y="129.5" width="10" height="61" rx="5" fill="url(#teal)" opacity="0.76"/>
+  <rect x="811" y="122.0" width="10" height="76" rx="5" fill="url(#teal)" opacity="0.78"/>
+  <rect x="828" y="113.5" width="10" height="93" rx="5" fill="url(#teal)" opacity="0.79"/>
+  <rect x="845" y="95.5" width="10" height="129" rx="5" fill="url(#teal)" opacity="0.81"/>
+  <rect x="862" y="96.0" width="10" height="128" rx="5" fill="url(#teal)" opacity="0.83"/>
+  <rect x="879" y="104.0" width="10" height="112" rx="5" fill="url(#teal)" opacity="0.84"/>
+  <rect x="896" y="109.5" width="10" height="101" rx="5" fill="url(#teal)" opacity="0.86"/>
+  <rect x="913" y="100.5" width="10" height="119" rx="5" fill="url(#teal)" opacity="0.88"/>
+  <rect x="930" y="71.0" width="10" height="178" rx="5" fill="url(#teal)" opacity="0.90"/>
+  <rect x="947" y="102.5" width="10" height="115" rx="5" fill="url(#teal)" opacity="0.91"/>
+  <rect x="964" y="82.0" width="10" height="156" rx="5" fill="url(#amber)" opacity="1.00"/>
+  <rect x="981" y="107.5" width="10" height="105" rx="5" fill="url(#amber)" opacity="1.00"/>
+  <rect x="998" y="87.0" width="10" height="146" rx="5" fill="url(#amber)" opacity="1.00"/>
+  <rect x="1015" y="95.5" width="10" height="129" rx="5" fill="url(#amber)" opacity="1.00"/>
+  <rect x="1032" y="76.0" width="10" height="168" rx="5" fill="url(#amber)" opacity="1.00"/>
+  <rect x="1049" y="96.5" width="10" height="127" rx="5" fill="url(#amber)" opacity="1.00"/>
+  <rect x="1066" y="110.0" width="10" height="100" rx="5" fill="url(#amber)" opacity="1.00"/>
+  <rect x="1083" y="107.0" width="10" height="106" rx="5" fill="url(#amber)" opacity="1.00"/>
+  <rect x="1100" y="106.5" width="10" height="107" rx="5" fill="url(#teal)" opacity="0.93"/>
+  <rect x="1117" y="97.5" width="10" height="125" rx="5" fill="url(#teal)" opacity="0.91"/>
+  <rect x="1134" y="121.5" width="10" height="77" rx="5" fill="url(#teal)" opacity="0.90"/>
+  <rect x="1151" y="124.0" width="10" height="72" rx="5" fill="url(#teal)" opacity="0.88"/>
+  <rect x="1168" y="135.5" width="10" height="49" rx="5" fill="url(#teal)" opacity="0.86"/>
+  <rect x="1185" y="127.0" width="10" height="66" rx="5" fill="url(#teal)" opacity="0.84"/>
+</g>
+<path d="M1079 60h36M1097 60v200M1079 260h36" stroke="#0b0d10" stroke-width="14" stroke-linecap="round" filter="url(#lift)"/>
+  <path d="M1079 60h36M1097 60v200M1079 260h36" stroke="url(#beam)" stroke-width="8" stroke-linecap="round"/>
+<text x="72" y="138" font-family="'Segoe UI', -apple-system, BlinkMacSystemFont, 'Helvetica Neue', Arial, sans-serif" font-size="64" font-weight="700" fill="#ffffff" letter-spacing="-1">Augustine Awuori</text>
+<text x="74" y="190" font-family="'Segoe UI', -apple-system, BlinkMacSystemFont, 'Helvetica Neue', Arial, sans-serif" font-size="28" fill="#c9d1d9">Full-stack developer · mobile, web and desktop</text>
+<text x="74" y="246" font-family="'Segoe UI', -apple-system, BlinkMacSystemFont, 'Helvetica Neue', Arial, sans-serif" font-size="20" font-weight="600" fill="#7af3d4">TypeScript · React Native · React · Node.js · Electron</text>
+<text x="74" y="278" font-family="'Segoe UI', -apple-system, BlinkMacSystemFont, 'Helvetica Neue', Arial, sans-serif" font-size="18" fill="#8b949e">Nairobi, Kenya</text>
+</svg>
